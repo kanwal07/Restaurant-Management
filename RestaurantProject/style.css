@@ -1,0 +1,62 @@
+/*Global*/
+.white {
+	color: white;
+}
+body {
+	overflow:visible;
+}
+
+
+.lightGrey {
+	background: lightgrey;
+}
+.black {
+	color:black;
+}
+.green {
+	background: lightgreen;
+}
+/*homepage.php*/
+
+
+#mainImage {
+	width: 100%;
+	height: 100%;
+	
+}
+
+.mainDiv {
+	background: grey;
+	margin-top: 100px;
+	padding: 50px;
+	opacity: 0.4;
+}
+
+/*feedback.php*/
+#feedback {
+	 
+	padding:10px;
+	margin-top:10px;
+}
+
+/*navbarBottom*/
+.navbar-text {
+	margin-left:50%;
+}
+/*employeeCRUD.php*/
+#employeeImage{
+	background-image: url('Images/team.jpg');
+	width:100%;
+	height:100%;
+}
+/*login.php*/
+#loginIcon
+{
+	height: 20px;
+	width:20px;
+	background-color:lightgrey;
+}
+
+/*MainMenu.php*/
+
+
